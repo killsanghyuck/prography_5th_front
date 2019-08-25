@@ -1,0 +1,25 @@
+{
+  "statusCode": 200,
+  "body": [
+    {
+      "title": "프로그라피 지원하기",
+      "id": 1,
+      "status": "complete"
+    },
+    {
+      "title": "프로그라피 과제 준비하기",
+      "id": 2,
+      "status": "todo"
+    },
+    {
+      "title": "프로그라피 친구들한테 알려주기",
+      "id": 3,
+      "status": "complete"
+    },
+    {
+      "title": "사랑해요 프로그라피",
+      "id": 4,
+      "status": "todo"
+    }
+  ]
+}
